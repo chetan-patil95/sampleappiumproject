@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-28T16:16:33 IST" name="Default suite" finished-at="2022-09-28T16:16:38 IST" duration-ms="4664">
+    <groups>
+    </groups>
+    <test started-at="2022-09-28T16:16:33 IST" name="Default test" finished-at="2022-09-28T16:16:38 IST" duration-ms="4664">
+      <class name="moofwd.AppiumBasics">
+        <test-method signature="appiumTest()[pri:0, instance:moofwd.AppiumBasics@fba92d3]" started-at="2022-09-28T16:16:33 IST" name="appiumTest" finished-at="2022-09-28T16:16:38 IST" duration-ms="4586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTest -->
+      </class> <!-- moofwd.AppiumBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
